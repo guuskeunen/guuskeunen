@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Welcome to Guus Keunen's GitHub
 
-<!--
-**guuskeunen/guuskeunen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Engineer** | Python & AI Specialist
 
-Here are some ideas to get you started:
+I'm a passionate backend engineer with **7+ years** of experience building scalable systems, APIs, and intelligent AI-powered applications. I specialize in **Python**, clean architecture, real-time systems, and turning complex requirements into production-ready solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my work is under NDA for clients (startups & real estate tech in Europe & GCC), but here are some **public highlights** showcasing my capabilities.
+
+---
+
+## 🚀 Featured Projects
+
+### 1. AI Brochure Generator – Dubai Real Estate
+An intelligent system that automatically generates beautiful, personalized real estate brochures using AI.  
+- Built with **Python**, AI/LLM pipelines, and document generation tools  
+- Tailored for the high-end Dubai property market  
+- Focused on automation, multi-language support, and high-quality output
+
+### 2. FastAPI Backend Server
+A clean, high-performance REST API built with **FastAPI**.  
+- Modern Python backend architecture  
+- Fast, scalable, and production-ready  
+- Demonstrates clean code practices, dependency injection, and API best practices
+
+---
+
+## 💡 What I Bring
+- **Strong Python expertise** with production AI/ML integrations
+- Experience building **chatbots**, document automation tools, sales analytics systems, and e-commerce backends
+- Solid background in real-time systems and IoT (C/C++ + Python)
+- Proven ability to work **remotely**, lead initiatives, and deliver results independently
+
+---
+
+## 📫 Let's Connect
+- **LinkedIn**: [linkedin.com/in/guus-keunen](https://www.linkedin.com/in/guus-keunen/)
+- **Website**: [guuskeunen.com](https://guuskeunen.com)
+- **Email**: guuskeunen@hotmail.com
+
+Always open to interesting opportunities in **Backend Engineering**, **Python**, **AI-powered systems**, or **remote Senior roles**.
+
+---
+
+*“Building reliable, intelligent software that creates real business value.”*
