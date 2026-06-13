@@ -11,6 +11,7 @@ Most of my work is under NDA for clients (startups & real estate tech in Europe 
 ## 🚀 Featured Projects
 
 ### 1. AI Brochure Generator – Dubai Real Estate
+[![View Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/guuskeunen/brochure-gen)
 An intelligent system that automatically generates beautiful, personalized real estate brochures using AI.  
 - Built with **Python**, AI/LLM pipelines, and document generation tools  
 - Tailored for the high-end Dubai property market  
