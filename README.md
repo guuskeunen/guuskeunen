@@ -16,12 +16,6 @@ An intelligent system that automatically generates beautiful, personalized real 
 - Tailored for the high-end Dubai property market  
 - Focused on automation, multi-language support, and high-quality output
 
-### 2. FastAPI Backend Server
-A clean, high-performance REST API built with **FastAPI**.  
-- Modern Python backend architecture  
-- Fast, scalable, and production-ready  
-- Demonstrates clean code practices, dependency injection, and API best practices
-
 ---
 
 ## 💡 What I Bring
