@@ -2,7 +2,7 @@
 
 **Senior Software Engineer** | Python & AI Specialist
 
-I'm a passionate backend engineer with **7+ years** of experience building scalable systems, APIs, and intelligent AI-powered applications. I specialize in **Python**, clean architecture, real-time systems, and turning complex requirements into production-ready solutions.
+I'm a passionate software engineer with **7+ years** of experience building scalable systems, APIs, and intelligent AI-powered applications. I specialize in **Python**, clean architecture, real-time systems, and turning complex requirements into production-ready solutions.
 
 Most of my work is under NDA for clients (startups & real estate tech in Europe & GCC), but here are some **public highlights** showcasing my capabilities.
 
