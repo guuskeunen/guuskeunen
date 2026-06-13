@@ -12,9 +12,24 @@ Most of my work is under NDA for clients (startups & real estate tech in Europe 
 
 ### 1. AI Brochure Generator – Dubai Real Estate [![View Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/guuskeunen/brochure-gen)
 An intelligent system that automatically generates beautiful, personalized real estate brochures using AI.  
-- Built with **Python**, AI/LLM pipelines, and document generation tools  
-- Tailored for the high-end Dubai property market  
-- Focused on automation, multi-language support, and high-quality output
+
+- Tailored for the high-end Dubai property market
+- Built with Python, AI/LLM pipelines and document generation tools
+- Focused on automation, multi-language support and high-quality output
+
+### 2. Arabic Document Generator – Dubai Real Estate
+Asynchronous PDF generation service for Sales & Purchase Agreements, built for the Arabic/English real estate market.
+
+- Accepts text placement instructions via API, renders PDFs in a worker Lambda, uploads to S3, and delivers a presigned download URL via callback
+- Built with Python, AWS Lambda, S3, FastAPI and async processing
+- Tailored for the high-end Dubai property market with bilingual document support
+
+### 3. Sales Signals Analyzer
+Tool that processes market and company data to surface actionable sales signals using agentic AI workflows.
+
+- Ingests data from news, job changes, tech stack, and hiring trends, then uses LLM-driven agents to prioritize signals
+- Built with Python, LLM agents and data pipelines
+- Turns raw market data into ranked, actionable outreach opportunities for sales teams
 
 ---
 
