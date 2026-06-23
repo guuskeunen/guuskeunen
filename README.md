@@ -1,5 +1,4 @@
 # 👋 Welcome to Guus Keunen's GitHub
-
 **Senior Software Engineer** | Python & AI Specialist
 
 I'm a passionate software engineer with **7+ years** of experience building scalable systems, APIs, and intelligent AI-powered applications. I specialize in **Python**, clean architecture, real-time systems, and turning complex requirements into production-ready solutions.
@@ -10,23 +9,27 @@ Most of my work is under NDA for clients (startups & real estate tech in Europe 
 
 ## 🚀 Featured Projects
 
-### 1. AI Brochure Generator – Dubai Real Estate [![View Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/guuskeunen/brochure-gen)
-An intelligent system that automatically generates beautiful, personalized real estate brochures using AI.  
+### 1. Generative Marketing Collateral – AI Newsletter Generator [![View Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/guuskeunen/generative-marketing)
+A FastAPI backend prototype that generates personalized marketing newsletters from company context PDFs. Users upload sender/receiver PDFs, then receive structured article JSON and HTML previews powered by LLM pipelines (with Gemini fallback).
 
+- PDF text extraction (PyPDF2), structured JSON output, and HTML templating
+- Includes sample data, local demo scripts, and a detailed AWS production architecture
+- Built with Python, FastAPI, and modern AI/LLM workflows
+
+### 2. AI Brochure Generator – Dubai Real Estate [![View Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/guuskeunen/brochure-gen)
+An intelligent system that automatically generates beautiful, personalized real estate brochures using AI.
 - Tailored for the high-end Dubai property market
 - Built with Python, AI/LLM pipelines and document generation tools
 - Focused on automation, multi-language support and high-quality output
 
-### 2. Arabic Document Generator – Dubai Real Estate
+### 3. Arabic Document Generator – Dubai Real Estate
 Asynchronous PDF generation service for Sales & Purchase Agreements, built for the Arabic/English real estate market.
-
 - Accepts text placement instructions via API, renders PDFs in a worker Lambda, uploads to S3, and delivers a presigned download URL via callback
 - Built with Python, AWS Lambda, S3, FastAPI and async processing
 - Tailored for the high-end Dubai property market with bilingual document support
 
-### 3. Sales Signals Analyzer
+### 4. Sales Signals Analyzer
 Tool that processes market and company data to surface actionable sales signals using agentic AI workflows.
-
 - Ingests data from news, job changes, tech stack, and hiring trends, then uses LLM-driven agents to prioritize signals
 - Built with Python, LLM agents and data pipelines
 - Turns raw market data into ranked, actionable outreach opportunities for sales teams
